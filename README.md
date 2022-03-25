@@ -1,6 +1,15 @@
 # LiquidInteract's Github
-Hi, i am liquidinteract a 14 year old developer on github, i specialise on languages that include: HTML, CSS, JavaScript, Bootstrap, Java.
-Currently im working on a few projects, of which includes:<br />
-Flownode - VPS Provider [flownode](https://flownode.net)
+Hi, im a 15 year old developer, i am currently working on many products of which includes.
+
+| - | LiquidNET | NeroNodes | LiquidNET Web Hosting |
+| - | --------- | --------- | --------------------- |
+|Active?| :white_check_mark: | ✅ | ✅ |
+
+NeroNodes - https://neronodes.net
+
+LiquidNET - https://liquidnet.uk
+
+LiquidNET Hosting - Private apply in the discord.
+
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=liquidinteract&count_private=true)
