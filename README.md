@@ -3,7 +3,7 @@ Hi, im a 15 year old developer, i am currently working on many products of which
 
 | - | LiquidNET | NeroNodes | LiquidNET Web Hosting |
 | - | --------- | --------- | --------------------- |
-|Active?| :white_check_mark: | ✅ | ✅ |
+|Active?| :white_check_mark: | ✅ | ❎ |
 
 NeroNodes - https://neronodes.net
 
